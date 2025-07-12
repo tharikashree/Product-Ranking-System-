@@ -8,11 +8,11 @@ A lightweight, modular system to scrape, analyze, and rank e-commerce products b
 
 📁 Project Structure
 
-product-kpi-system/
-├── product_scraper.ipynb       # Scraper to collect product data
-├── shopping_results.json    # Product data (JSON list)
-├── product_ranking.ipynb    # Jupyter Notebook to rank products by query
-├── README.md                
+           product-kpi-system/
+     ├── product_scraper.ipynb       # (Optional) Scraper to collect product data
+     ├── shopping_results.json    # Product data (JSON list)
+     ├── product_ranking.ipynb    # Jupyter Notebook to rank products by query
+     ├── README.md                     
 
 
 ---
