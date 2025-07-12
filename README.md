@@ -125,18 +125,16 @@ Dependencies
 
 Install the minimal requirements:
 
-pip install pandas ipywidgets
+    pip install pandas ipywidgets
 
 If using scraping:
 
-pip install beautifulsoup4 requests
+    pip install beautifulsoup4 requests
 
 
 Example Queries
 
-light blue cotton bedsheets under 1500
-
-navy king size cotton bedsheet under 1000
-
-white double bed sheet under 1200 with high rating
+    light blue cotton bedsheets under 1500
+    navy king size cotton bedsheet under 1000 
+    white double bed sheet under 1200 with high rating
 
